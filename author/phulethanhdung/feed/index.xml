@@ -10,7 +10,7 @@
 <channel>
 	<title>phulethanhdung &#8211; My WordPress</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/phulethanhdung/feed/" rel="self" type="application/rss+xml" />
-	<link>http://phulethanhdung108.github.io/mywordpress</link>
+	<link>https://phulethanhdung108.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 12 Oct 2022 02:59:21 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>http://phulethanhdung108.github.io/mywordpress/2022/10/12/chao-moi-nguoi/</link>
-					<comments>http://phulethanhdung108.github.io/mywordpress/2022/10/12/chao-moi-nguoi/#comments</comments>
+		<link>https://phulethanhdung108.github.io/mywordpress/2022/10/12/chao-moi-nguoi/</link>
+					<comments>https://phulethanhdung108.github.io/mywordpress/2022/10/12/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[phulethanhdung]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 02:59:21 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://phulethanhdung108.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">https://phulethanhdung108.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://phulethanhdung108.github.io/mywordpress/2022/10/12/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://phulethanhdung108.github.io/mywordpress/2022/10/12/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
