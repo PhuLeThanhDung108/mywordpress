@@ -10,9 +10,9 @@
 <channel>
 	<title>My WordPress</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://phulethanhdung108.github.io/mywordpress</link>
+	<link>http://phulethanhdung108.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 24 Sep 2022 16:20:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Oct 2022 02:59:21 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,57 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Trang Chủ</title>
-		<link>https://phulethanhdung108.github.io/mywordpress/2022/09/24/trang/</link>
-					<comments>https://phulethanhdung108.github.io/mywordpress/2022/09/24/trang/#respond</comments>
-		
-		<dc:creator><![CDATA[phulethanhdung]]></dc:creator>
-		<pubDate>Sat, 24 Sep 2022 16:19:52 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://phulethanhdung108.github.io/mywordpress/?p=9</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://phulethanhdung108.github.io/mywordpress/2022/09/24/trang/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Blog</title>
-		<link>https://phulethanhdung108.github.io/mywordpress/2022/09/24/blog/</link>
-					<comments>https://phulethanhdung108.github.io/mywordpress/2022/09/24/blog/#respond</comments>
-		
-		<dc:creator><![CDATA[phulethanhdung]]></dc:creator>
-		<pubDate>Sat, 24 Sep 2022 16:19:42 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://phulethanhdung108.github.io/mywordpress/?p=8</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://phulethanhdung108.github.io/mywordpress/2022/09/24/blog/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://phulethanhdung108.github.io/mywordpress/2022/09/24/chao-moi-nguoi/</link>
-					<comments>https://phulethanhdung108.github.io/mywordpress/2022/09/24/chao-moi-nguoi/#comments</comments>
+		<link>http://phulethanhdung108.github.io/mywordpress/2022/10/12/chao-moi-nguoi/</link>
+					<comments>http://phulethanhdung108.github.io/mywordpress/2022/10/12/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[phulethanhdung]]></dc:creator>
-		<pubDate>Sat, 24 Sep 2022 16:14:06 +0000</pubDate>
+		<pubDate>Wed, 12 Oct 2022 02:59:21 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://phulethanhdung108.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">http://phulethanhdung108.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://phulethanhdung108.github.io/mywordpress/2022/09/24/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>http://phulethanhdung108.github.io/mywordpress/2022/10/12/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
