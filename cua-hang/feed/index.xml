@@ -12,12 +12,64 @@
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phulethanhdung108.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 12 Oct 2022 03:16:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 00:53:19 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
-</channel>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Tinted Sunglasses</title>
+		<link>https://phulethanhdung108.github.io/mywordpress/san-pham/tinted-sunglasses/</link>
+					<comments>https://phulethanhdung108.github.io/mywordpress/san-pham/tinted-sunglasses/#respond</comments>
+		
+		<dc:creator><![CDATA[phulethanhdung]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 00:51:18 +0000</pubDate>
+				<guid isPermaLink="false">https://phulethanhdung108.github.io/mywordpress/?post_type=product&#038;p=84</guid>
+
+					<description><![CDATA[$15.00]]></description>
+										<content:encoded><![CDATA[<p><strong>$15.00</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phulethanhdung108.github.io/mywordpress/san-pham/tinted-sunglasses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Wedge-Heeled Espadrilles</title>
+		<link>https://phulethanhdung108.github.io/mywordpress/san-pham/wedge-heeled-espadrilles/</link>
+					<comments>https://phulethanhdung108.github.io/mywordpress/san-pham/wedge-heeled-espadrilles/#respond</comments>
+		
+		<dc:creator><![CDATA[phulethanhdung]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2022 16:48:41 +0000</pubDate>
+				<guid isPermaLink="false">https://phulethanhdung108.github.io/mywordpress/?post_type=product&#038;p=75</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://phulethanhdung108.github.io/mywordpress/san-pham/wedge-heeled-espadrilles/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Oversized Jacket</title>
+		<link>https://phulethanhdung108.github.io/mywordpress/san-pham/oversized-jacket/</link>
+					<comments>https://phulethanhdung108.github.io/mywordpress/san-pham/oversized-jacket/#respond</comments>
+		
+		<dc:creator><![CDATA[phulethanhdung]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2022 04:57:22 +0000</pubDate>
+				<guid isPermaLink="false">https://phulethanhdung108.github.io/mywordpress/?post_type=product&#038;p=72</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://phulethanhdung108.github.io/mywordpress/san-pham/oversized-jacket/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
