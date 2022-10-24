@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>glass &#8211; My WordPress</title>
+	<title>glass &#8211; YF Shop </title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/glass/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phulethanhdung108.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 20 Oct 2022 00:53:19 +0000</lastBuildDate>
+	<description>Young Fashion Shop </description>
+	<lastBuildDate>Fri, 21 Oct 2022 02:08:04 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,8 +28,9 @@
 		<pubDate>Thu, 20 Oct 2022 00:51:18 +0000</pubDate>
 				<guid isPermaLink="false">https://phulethanhdung108.github.io/mywordpress/?post_type=product&#038;p=84</guid>
 
-					<description><![CDATA[$15.00]]></description>
-										<content:encoded><![CDATA[<p><strong>$15.00</strong></p>
+					<description><![CDATA[$15.00 He garments labelled as Committed are products that have been produced using sustainable fibers or processes, reducing their environmental impact. Mango’s goal is to support the implementation of practices more committed to the environment, and therefore increase the number of sustainable garments in the collection.]]></description>
+										<content:encoded><![CDATA[<p><strong>$15.00</strong><br />
+He garments labelled as Committed are products that have been produced using sustainable fibers or processes, reducing their environmental impact. Mango’s goal is to support the implementation of practices more committed to the environment, and therefore increase the number of sustainable garments in the collection.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://phulethanhdung108.github.io/mywordpress/san-pham/tinted-sunglasses/feed/</wfw:commentRss>
