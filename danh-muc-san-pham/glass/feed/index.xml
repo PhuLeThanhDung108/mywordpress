@@ -12,14 +12,32 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/glass/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phulethanhdung108.github.io/mywordpress</link>
 	<description>Young Fashion Shop </description>
-	<lastBuildDate>Fri, 21 Oct 2022 02:08:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Nov 2022 15:25:17 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
+		<title>Polarised Sunglasses</title>
+		<link>https://phulethanhdung108.github.io/mywordpress/san-pham/polarised-sunglasses/</link>
+					<comments>https://phulethanhdung108.github.io/mywordpress/san-pham/polarised-sunglasses/#respond</comments>
+		
+		<dc:creator><![CDATA[phulethanhdung]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 03:12:17 +0000</pubDate>
+				<guid isPermaLink="false">https://phulethanhdung108.github.io/mywordpress/?post_type=product&#038;p=502</guid>
+
+					<description><![CDATA[He garments labelled as Committed are products that have been produced using sustainable fibers or processes, reducing their environmental impact. Mango’s goal is to support the implementation of practices more committed to the environment, and therefore increase the number of sustainable garments in the collection.]]></description>
+										<content:encoded><![CDATA[<p>He garments labelled as Committed are products that have been produced using sustainable fibers or processes, reducing their environmental impact. Mango’s goal is to support the implementation of practices more committed to the environment, and therefore increase the number of sustainable garments in the collection.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phulethanhdung108.github.io/mywordpress/san-pham/polarised-sunglasses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Tinted Sunglasses</title>
 		<link>https://phulethanhdung108.github.io/mywordpress/san-pham/tinted-sunglasses/</link>
 					<comments>https://phulethanhdung108.github.io/mywordpress/san-pham/tinted-sunglasses/#respond</comments>
