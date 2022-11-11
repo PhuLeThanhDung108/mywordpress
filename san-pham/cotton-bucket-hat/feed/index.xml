@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho YF Shop 	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://phulethanhdung108.github.io/mywordpress</link>
+	Các phản hồi luận về: Cotton Bucket Hat	</title>
+	<atom:link href="http://localhost/myproject/wordpress/san-pham/cotton-bucket-hat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phulethanhdung108.github.io/mywordpress/san-pham/cotton-bucket-hat/</link>
 	<description>Young Fashion Shop </description>
-	<lastBuildDate>Fri, 11 Nov 2022 02:49:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Nov 2022 02:47:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
